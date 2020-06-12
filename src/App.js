@@ -4,7 +4,8 @@ import './App.css';
 
 function App() {
   return (
-    <div>Demo react App</div>
+    <div>Demo react App/</div>
+    <div>Greeting of the day "Have a blessed Friday" </div>
   );
 }
 
